@@ -66,9 +66,6 @@ public class RumWsClient {
 		try
 		{
 			CommandLine line = parser.parse( options, args );
-
-			
-			
 			String server = "";
 			String user = "";
 			String password = "";
@@ -81,17 +78,12 @@ public class RumWsClient {
 			config.setServicesURL("/services/DMIService");
 			
 			start(config);
-
 			
 		} catch (ParseException e) {
 			System.out.println( e.getMessage());
 			HelpFormatter formatter = new HelpFormatter();
 			formatter.printHelp("profilevalidator", options);
 		}
-		
-		
-		
-	
 	}
 	
 	private static void start(RumConfiguration config)
@@ -99,24 +91,14 @@ public class RumWsClient {
 	//  create locator  
 			DMIServiceServiceLocator locator = new DMIServiceServiceLocator();
 			try {
-				/*String defURL = "http://cas1.emea.demo.compuware.com";
-				String serviceURL = defURL + "/services/DMIService";*/
-				
-				//String qURL = "URL (eg: <http://mycas.internal> (without <>): "
-				//String qUser = "Username: ";
-				//String qPwd = "Password: ";
-				//String 
-				
-				//Create a DMIService object.
 				DMIService service = locator.getDMIService(new URL(config.getFullURL()));
 				System.out.println("URL: [" + config.getFullURL() + "]");
 				
-				//4. Authenticate the connection to the server.
 				((Stub)service).setUsername(config.getUser());
 				((Stub)service).setPassword(config.getPassword());
 				System.out.println("USER: [" + config.getUser() + "]");
 				System.out.println("PASS: [" + config.getPassword() + "]");
-				//5. Add the getServerUUID method.
+				
 				System.out.print("server UUID=");
 				
 				System.out.println(service.getServerUUID());
@@ -124,10 +106,6 @@ public class RumWsClient {
 				printDataViewsToFile(service);
 				printDimensionsToFile(service);
 				printMetricsToFile(service);
-				/*setCriteria();
-				
-				getDMIData(service);
-				getDMIData2(service);*/
 				
 			} catch (ServiceException e) {
 					e.printStackTrace();
