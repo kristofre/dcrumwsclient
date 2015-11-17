@@ -1,0 +1,64 @@
+Central Analysis Server:CVENT:ClientViewDb:Software service, operation, and site data from DB
+Central Analysis Server:CVENT:TransAct:Synthetic and sequence transaction data (Active)
+Central Analysis Server:CVENT:ClientCard:Software service, operation, and site data with uniqueness
+Central Analysis Server:CVENT:TransUserActivity:Synthetic and sequence transaction data (User Activity)
+Central Analysis Server:CVENT:TierCache:Application, transaction, and tier data from cache
+Central Analysis Server:CVENT:Rolling:Software service, operation, and site baselines
+Central Analysis Server:CVENT:ODClientDetails:Client-level details (on demand)
+Central Analysis Server:CVENT:MQ:MQ statistics
+Central Analysis Server:CVENT:ODClientList:List of users (on demand)
+Central Analysis Server:CVENT:PartClientCard:Software service, operation, and site data with limited uniqueness
+Central Analysis Server:CVENT:CliCnt:Client counters (hidden)
+Central Analysis Server:CVENT:TransA:Synthetic and sequence transaction data (Agentless)
+Central Analysis Server:CVENT:DayTierBndClientCard:Tier-bound client counters (hidden)
+Central Analysis Server:CVENT:CharcTrans:Synthetic and sequence transaction baselines
+Central Analysis Server:CVENT:Tier:Application, transaction, and tier data
+Central Analysis Server:CVENT:Trans:Synthetic and sequence transaction data
+Central Analysis Server:CVENT:CvNetwork:Internetwork traffic data
+Central Analysis Server:CVENT:Threshold:Software service, operation, and site data Fixed Threshold
+Central Analysis Server:CVENT:ClientView:Software service, operation, and site data
+Central Analysis Server:CVENT:TfcOnLink:Network link data
+Central Analysis Server:CVENT:TierBaselineCache:Application, transaction, and tier baselines
+Central Analysis Server:CVENT:Citrix:Citrix/WTS hardware data
+Central Analysis Server:CVENT:TierUserActivity:Application, transaction, and tier data with uniqueness
+Central Analysis Server:CVENT:WholeTraff:Low-significance traffic
+Central Analysis Server:CVENT:TierDb:Application, transaction, and tier data from DB
+Central Analysis Server:CVENT:CVCache:Software service, operation, and site data from cache
+Synthetic Backbone:GOMEZ:CharcGomezSyntheticTest:Synthetic Backbone test baselines
+Synthetic Backbone:GOMEZ:GomezSyntheticTest:Synthetic Backbone test data
+Synthetic Backbone:GOMEZ:GomezSyntheticStep:Synthetic Backbone page data
+Synthetic Backbone:GOMEZ:CharcGomezSyntheticStep:Synthetic Backbone page baselines
+RUM Browser:UEM:UemPage:UEM Page DB Data
+RUM Browser:UEM:UemAggr:UEM DB Data
+RUM Browser:UEM:UemMobile:UEM Mobile DB Data
+RUM Browser:UEM:UemMobileCache:UEM Mobile Cache Data
+RUM Browser:UEM:UemPageCache:UEM Page Cache Data
+RUM Browser:UEM:UemAggrCache:UEM Cache Data
+RUM Browser:UEM:UemProxy:RUM Browser data
+RUM Browser:UEM:UemBaseline:RUM Browser baselines
+Analysis:HTTPLOG:PageData:Operation data
+Analysis:HTTPLOG:PageDataAggr:Operation data Overview (PAO)
+Analysis:HTTPLOG:TransData:Sequence transaction data
+Hit-level Analysis:HTTPCOMP:HttplogData:Operations element data
+Tools:ALARMS:AlarmLogVisible:Alert Log
+Tools:ALARMS:GlobalParams:Report Parameters
+DB status:HM:DbStatusDetails:DB status details view
+DB status:HM:DbStatus:DB status view
+Diagnostic:SYSTEMDIAG:ProbeMemStatistics:AMD Memory Statistics
+Diagnostic:SYSTEMDIAG:ProbeThreadStatistics:AMD Thread Statistics
+Diagnostic:SYSTEMDIAG:AlarmLog:Alert Log
+Diagnostic:SYSTEMDIAG:ProbeIfcStatistics:AMD Interface Statistics
+Diagnostic:SYSTEMDIAG:SqlTrace:SQL Queries
+Diagnostic:SYSTEMDIAG:NcsaData:Web Server Log
+Diagnostic:SYSTEMDIAG:ProbeCntView:AMD Other Diagnostic Statistics
+Diagnostic:SYSTEMDIAG:MemoryStatus:Memory Status
+Diagnostic:SYSTEMDIAG:BussGroup:Business Groups
+Diagnostic:SYSTEMDIAG:ProcStatus:Processing Status
+Diagnostic:SYSTEMDIAG:ModuleStatuses:Module Status
+Diagnostic:SYSTEMDIAG:ProbeStatistics:AMD Global Statistics
+Diagnostic:SYSTEMDIAG:ProbePerfStatistics:AMD Performance Statistics
+Diagnostic:SYSTEMDIAG:DmiQueryPerf:DMI Query Performance
+Diagnostic:SYSTEMDIAG:ProcSummaryStatus:Processing Summary Status
+Diagnostic:SYSTEMDIAG:ProbeCPUStatistics:AMD CPU Statistics
+Diagnostic:SYSTEMDIAG:WebService:Web Service Log
+Diagnostic:SYSTEMDIAG:TaskSchedulerStatus:Task Scheduler Status

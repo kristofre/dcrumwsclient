@@ -1,0 +1,1044 @@
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sPort:Server port
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:vpn:Client VPN
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:browsN:Browser name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:browsOS:Browser OS
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:browsH:Browser hardware
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:browsVer:Browser/client version
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:serviceParam1:Grouping attributes 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:serviceParam2:Grouping attributes 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:serviceParam3:Grouping attributes 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:voipCallMngIp:Call manager IP
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:voipCallInit:Call initiator
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:processId:Process ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one period:r:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sPort:Server port
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:vpn:Client VPN
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:browsN:Browser name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:browsOS:Browser OS
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:browsH:Browser hardware
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:browsVer:Browser/client version
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:serviceParam1:Grouping attributes 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:serviceParam2:Grouping attributes 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:serviceParam3:Grouping attributes 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:voipCallMngIp:Call manager IP
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:voipCallInit:Call initiator
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:processId:Process ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one hour:1:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sPort:Server port
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:vpn:Client VPN
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:browsN:Browser name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:browsOS:Browser OS
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:browsH:Browser hardware
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:browsVer:Browser/client version
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:serviceParam1:Grouping attributes 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:serviceParam2:Grouping attributes 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:serviceParam3:Grouping attributes 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:voipCallMngIp:Call manager IP
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:voipCallInit:Call initiator
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:processId:Process ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:6 hours:6:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one day:d:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one week:w:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data from DB:ClientViewDb:one month:m:dataProd:Data source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:businessHour:Business hour
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:businessDay:Business day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:hrD:Hour of the day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cIP:Client IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:userN:User name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cGeoCity:Client city
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cGeoCountry:Client country
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:vpn:Client VPN
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:ssLink:Screenshot
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:ssLinkThumbnail:Screenshot thumbnail
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:avReportLink:Link to Transaction Trace report
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:avTraceLink:Link to Transaction Trace file
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:traceAmdUUID:AMD UUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:transTimestamp:Transaction timestamp
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:transGUID:Transaction GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:avGUID:Transaction Trace GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:vaGUID:dynaTrace correlation ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:avLinkStatus:Transaction Trace link status
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:avRequestTime:Transaction Trace request time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:transCitrixServerIP:Citrix server IP
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:processId:Process ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one period:r:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:businessHour:Business hour
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:businessDay:Business day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:hrD:Hour of the day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cIP:Client IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:userN:User name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cGeoCity:Client city
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cGeoCountry:Client country
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:vpn:Client VPN
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:ssLink:Screenshot
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:ssLinkThumbnail:Screenshot thumbnail
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:avReportLink:Link to Transaction Trace report
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:avTraceLink:Link to Transaction Trace file
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:traceAmdUUID:AMD UUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:transTimestamp:Transaction timestamp
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:transGUID:Transaction GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:avGUID:Transaction Trace GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:vaGUID:dynaTrace correlation ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:avLinkStatus:Transaction Trace link status
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:avRequestTime:Transaction Trace request time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:transCitrixServerIP:Citrix server IP
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:processId:Process ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one hour:1:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:businessDay:Business day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cIP:Client IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:userN:User name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cGeoCity:Client city
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cGeoCountry:Client country
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:vpn:Client VPN
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:ssLink:Screenshot
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:ssLinkThumbnail:Screenshot thumbnail
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:avReportLink:Link to Transaction Trace report
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:avTraceLink:Link to Transaction Trace file
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:traceAmdUUID:AMD UUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:transTimestamp:Transaction timestamp
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:transGUID:Transaction GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:avGUID:Transaction Trace GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:vaGUID:dynaTrace correlation ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:avLinkStatus:Transaction Trace link status
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:avRequestTime:Transaction Trace request time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:transCitrixServerIP:Citrix server IP
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:processId:Process ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:dtServerId:dynaTrace Server ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:6 hours:6:dtSystemProfile:dynaTrace System profile
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:businessHour:Business hour
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:businessDay:Business day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one day:d:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one week:w:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:begT:Time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cLocDescr:Client site description
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cLocArea:Client area
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:cRegion:Client region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:userNGr:Client group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:recType:Analyzer group
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:bgTrans:Transaction
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:bgAppl:Application
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:transSource:Transaction source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:bgnameTier:Tier
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (Active):TransAct:one month:m:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:c_user_name:Common user name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:bw_class:Realized bandwidth aggregate
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one period:r:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:c_user_name:Common user name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:bw_class:Realized bandwidth aggregate
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one hour:1:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:c_user_name:Common user name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:bw_class:Realized bandwidth aggregate
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:6 hours:6:dataProd:Data source
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:begT:Time
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:businessHour:Business hour
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:businessDay:Business day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:hrD:Hour of the day
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:appl:Software service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:clSer:Class of service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:applBinTOS:TOS-binary
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:tos:TOS-decimal
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:protocol:Protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:applAgent:Agent
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:realsynth:Traffic type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:analtyp:Analysis type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:anal:Analyzer
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:recType:Analyzer group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgTrans:Transaction
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgAppl:Application
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgBussStep:Transaction step
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgBussStepSeqNum:Transaction step sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sIP:Server IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sDNSName:Server name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sLoc:Server site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sLocDescr:Server site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sLocDnsName:Server site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sLocWanOpt:Server site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sLocArea:Server area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sRegion:Server region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sGeoCity:Server city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sGeoRegion:Server geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sGeoCountry:Server country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:stepSeqNo:SAP operation order
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrl:Operation
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlSum:Operation (incl. whole)
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlName:Task
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlURLHierarchyLvl2:Module
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlURLHierarchyLvl3:Service
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:reqMet:Request method
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlProtocol:URL protocol
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlHost:URL host
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlPath:URL path
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam1:Miscellaneous parameter 1
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam2:Miscellaneous parameter 2
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam3:Miscellaneous parameter 3
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam4:Miscellaneous parameter 4
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam6:Miscellaneous parameter 5
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:pUrlParam7:Miscellaneous parameter 6
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:isOperationCut:Is operation name cut?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sqlOpTypePrefix:Operation type prefix
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sqlPoolMF:Is most frequently executed?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sqlPoolLA:Has longest avg. exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:sqlPoolLO:Has longest overall exec. time?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:repGroup:Reporting group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:rptGrBoundByMap:Tier
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgnameTierSeqNum:Tier sequence number
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgnameTierType:Tier type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:isFrontEndTier:Is front-end tier?
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bgNetTier:Network tier site selector
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPoint:Link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:physMsrPoint:Physical link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:vcMsrPoint:VC link name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPoint4Cust:Link alias
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPointType:Link type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPointWatch:Link monitor
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPointGr:Link group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:msrPointGrLvl:Link group level
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cLoc:Client site
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cLocType:Client site type
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:clientLocWanOpt:Client site WAN Optimized Link
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cLocDescr:Client site description
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cLocDnsName:Client site ID
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cLocArea:Client area
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cRegion:Client region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:userNGr:Client group
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cGeoCity:Client city
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cGeoCountry:Client country
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:userN:User name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:c_user_name:Common user name
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:cIP:Client IP address
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:bw_class:Realized bandwidth aggregate
+Central Analysis Server:CVENT:Software service, operation, and site data with uniqueness:ClientCard:one day:d:dataProd:Data source
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:businessHour:Business hour
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:businessDay:Business day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:hrD:Hour of the day
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:dayOfWeek:Day of the week
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cIntrIP:Client internal IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cIP:Client IP address
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:userN:User name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cWINSName:Client WINS name
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cGeoCity:Client city
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cGeoRegion:Client geographical region
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cGeoCountry:Client country
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:vpn:Client VPN
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:ssLink:Screenshot
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:ssLinkThumbnail:Screenshot thumbnail
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:avReportLink:Link to Transaction Trace report
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:avTraceLink:Link to Transaction Trace file
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:traceAmdUUID:AMD UUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:transTimestamp:Transaction timestamp
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:transGUID:Transaction GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:avGUID:Transaction Trace GUID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:vaGUID:dynaTrace correlation ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:avLinkStatus:Transaction Trace link status
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:avRequestTime:Transaction Trace request time
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:transCitrixServerIP:Citrix server IP
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:processId:Process ID
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cLoc:Client site
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:cLocType:Client site type
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:one period:r:clientLocUdl:Client site UDL
+Central Analysis Server:CVENT:Synthetic and sequence transaction data (User Activity):TransUserActivity:o
